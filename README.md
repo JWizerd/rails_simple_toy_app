@@ -1,2 +1,1 @@
-# rails_simple_toy_app
-rails tutorial toy app init
+# M. Hartl Rails Tutorial - Simple Toy App
